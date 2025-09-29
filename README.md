@@ -34,7 +34,7 @@
 - **[Pixel Castle Adventure](https://github.com/NekoDevPixel/Pixel-Castle-Adventure)**  
   픽셀 아트 스타일의 액션 어드벤처 게임으로, Unity와 C#을 사용해 개발했습니다.  
   아주 짧은플레이타임을 가지고 있으며 몬스터를 피해 보석을 파밍하며 탈출하는 간단한 게임입니다..  
-  **[Pick-up---Drop-Mini-Game][개발중](https://github.com/NekoDevPixel/Pick-up---Drop-Mini-Game)**
+  **[Pick-up---Drop-Mini-Game(개발중)](https://github.com/NekoDevPixel/Pick-up---Drop-Mini-Game)**
   itch.io에서 무료로 구한 픽셀 아트 스타일의 에셋을 사용하여 픽업&드롭 미니게임장르의 게임으로, Unity와 C#을 사용해 개발하고있습니다.  
   과일은 먹으며 점수를 감점시키는 폭탄은 피하는 간단한 미니게임입니다.
 
