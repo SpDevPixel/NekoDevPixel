@@ -7,9 +7,7 @@
 저는 어릴 때부터 게임을 접하며 자연스럽게 다양한 디지털 서비스를 경험해왔습니다.
 
 게임을 단순히 즐기는 것을 넘어, 많은 사용자가 동시에 이용하는 서비스가 어떻게 안정적으로 운영되는지에 대해 궁금증을 가지게 되었고, 이러한 관심은 자연스럽게 백엔드 개발에 대한 흥미로 이어졌습니다. 특히 대규모 트래픽을 처리하고, 데이터를 효율적으로 관리하여 사용자에게 끊김 없는 경험을 제공하는 과정에 매력을 느끼게 되었습니다.
-
 또한 여러 온·오프라인 행사에서 다양한 사용자들이 하나의 서비스를 통해 즐거움을 느끼는 모습을 보며, ‘내가 만든 시스템이 이러한 경험을 안정적으로 뒷받침할 수 있다면 얼마나 보람 있을까’라는 생각을 하게 되었고, 웹·앱 백엔드 개발자를 목표로 삼게 되었습니다.
-
 이 목표를 이루기 위해 서버 구조, 데이터베이스, API 설계에 대해 꾸준히 학습하고 있으며, 실제 프로젝트를 통해 확장성과 안정성을 고려한 시스템을 구현하는 경험을 쌓으며 성장하고 있습니다.
 
 
@@ -19,17 +17,18 @@
   Platforms & Languages
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Beginner-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-Intermediate-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
+
 🧰 Tools
 <p>  
-  
-  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ## 🚀 Projects  
